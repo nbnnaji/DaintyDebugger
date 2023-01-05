@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuggyPedia</string>
+    <string name="accessibility_splash_screen_image">lady bug image</string>
+</resources>
